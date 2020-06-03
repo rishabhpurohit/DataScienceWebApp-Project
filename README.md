@@ -1,6 +1,6 @@
 # DataScienceWebApp-Project
 
-##The data is NYC Vehicle Collisions Dataset.
+## The Dataset NYC Vehicle Collisions is used for Analysis and Web App Development. 
 
 ### script.py contains the final code of Data Science Web App powered by Streamlit.
 
